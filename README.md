@@ -16,7 +16,7 @@ Este proyecto simula el funcionamiento de una cafetería moderna, donde los pedi
 - JavaScript ES6+
 
 ## 🗂 Estructura del Proyecto
-/cafeteria-simulador
+cafeteria-simulador
 │
 ├── index.html # Interfaz de usuario
 ├── app.js # Lógica principal de la simulación
